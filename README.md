@@ -38,3 +38,9 @@
 > + 데이터가 없는 인공지능은 홍철없는 홍철팀
 > + 데이터 축적에 힘쓰는 정부의 노력
 > + 다른 분야에 활용
+
+# 출처
+> + KoBERT 샘플 참조 'https://github.com/monologg/KoBERT-nsmc'
+> + 국가재난포털 참조 'https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/csc/bbs_conf.jsp?bbs_no=27&emgPage=Y&menuSeq=736&viewtype=read&bbs_ordr=2136'
+> + 트위터 api 사용방법 참조 'https://www.youtube.com/watch?time_continue=2&v=Lu1nskBkPJU&feature=emb_title'
+> + pandas 데이터프레임 사용방법 참조 'https://www.youtube.com/watch?v=pbHc9Kbztic'
